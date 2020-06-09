@@ -6,7 +6,7 @@ transform `|` "pipe" into `_` "underscore" in all file names of current director
           `nopipe [-lrh]`
 
 
-Pipe | character is not allowed in OneDrive
+The pipe `|` character is not allowed in OneDrive
 
 This utility helps to locate the illegal file names and rename them
 
